@@ -1,0 +1,37 @@
+Comparison between BasketballDrill_832x480_50.yuv and output_420.yuv
+
+Frame 1:
+PSNR Y: 25.313011
+PSNR U: 30.968891
+PSNR V: 26.636244
+Total PSNR: 26.096791
+
+Frame 2:
+PSNR Y: 25.313011
+PSNR U: 30.968891
+PSNR V: 26.636244
+Total PSNR: 26.096791
+
+Frame 3:
+PSNR Y: 25.276208
+PSNR U: 30.975113
+PSNR V: 26.573353
+Total PSNR: 26.058460
+
+Frame 4:
+PSNR Y: 25.275575
+PSNR U: 30.992760
+PSNR V: 26.621432
+Total PSNR: 26.065985
+
+Frame 5:
+PSNR Y: 25.275501
+PSNR U: 30.909819
+PSNR V: 26.652540
+Total PSNR: 26.065983
+
+-------------------------------------
+Average PSNR Y: 25.290661
+Average PSNR U: 30.963095
+Average PSNR V: 26.623963
+Average Total PSNR: 26.076802
